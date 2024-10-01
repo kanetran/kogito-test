@@ -81,7 +81,7 @@
     </dmn:informationRequirement>
     <dmn:decisionTable id="_162572E2-FB53-488C-9271-8535E18B76BD" hitPolicy="UNIQUE" preferredOrientation="Rule-as-Row">
       <dmn:input id="_7C0D050E-94DF-4863-A313-613C16431069">
-        <dmn:inputExpression typeRef="string">
+        <dmn:inputExpression id="_9EDC97A4-A008-4E9E-A9BD-E3BD2DE2F25E" typeRef="string">
           <dmn:text>input.promotionCode</dmn:text>
         </dmn:inputExpression>
       </dmn:input>
@@ -134,12 +134,12 @@
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="486" y="157" width="100" height="50"/>
+        <dc:Bounds x="487" y="82" width="100" height="50"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNEdge id="dmnedge-drg-_39D867AD-0655-4C5C-9C22-536E3E2BFD25" dmnElementRef="_39D867AD-0655-4C5C-9C22-536E3E2BFD25">
         <di:waypoint x="332" y="181"/>
-        <di:waypoint x="486" y="182"/>
+        <di:waypoint x="487" y="107"/>
       </dmndi:DMNEdge>
     </dmndi:DMNDiagram>
   </dmndi:DMNDI>
