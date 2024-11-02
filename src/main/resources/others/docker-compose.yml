@@ -1,8 +1,0 @@
-services:
-  luz-kogito-rule:
-    build:
-      context: '.'
-      dockerfile: src/main/docker/Dockerfile.jvm
-    ports:
-      - '8080:8080'
-
