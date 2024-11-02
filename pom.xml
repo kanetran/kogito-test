@@ -5,7 +5,7 @@
   <groupId>com.myspace</groupId>
   <artifactId>ccd-project</artifactId>
   <version>1.0.0</version>
-  <packaging>kjar</packaging>
+  <!-- <packaging>kjar</packaging> -->
   <name>ccd-project</name>
   <description>Credit Card Dispute Automation project</description>
   <dependencies>
